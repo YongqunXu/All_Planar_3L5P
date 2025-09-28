@@ -1,4 +1,3 @@
-(* Created with the Wolfram Language : www.wolfram.com *)
 {{-Log[W[1]] - Log[W[2]] - Log[W[3]] - 2*Log[W[4]] - Log[W[5]] + Log[W[16]] + 
    Log[W[18]] + Log[W[19]], Log[W[4]] + Log[W[16]] - Log[W[18]] - Log[W[19]], 
   -32*Log[W[27]] - 32*Log[W[28]], -32*Log[W[30]], 
