@@ -1,8 +1,8 @@
 # All Massless Planar Three-Loop-Five-Point Feynman Integrals
 
-[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2511.XXXXX)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.XXXXX)
 
-This is the analytic result of four massless planar Three-Loop Five-Point Feynman integrals families, also the auxilary files of [Complete computation of all three-loop five-point massless planar integrals[2511.XXXX]](https://arxiv.org/abs/2511.XXXX)  (Dmitry Chicherin, Yu Wu, Zihao Wu, Yongqun Xu, Shun-Qing Zhang, Yang Zhang)
+This is the analytic result of four massless planar Three-Loop Five-Point Feynman integrals families, also the auxilary files of [Complete computation of all three-loop five-point massless planar integrals[2511.XXXX]](https://arxiv.org/abs/2512.XXXX)  (Dmitry Chicherin, Yu Wu, Zihao Wu, Yongqun Xu, Shun-Qing Zhang, Yang Zhang)
 
 ## Four integral families:
 * Pentagon-Box-Box(PBB)
@@ -18,6 +18,7 @@ This is the analytic result of four massless planar Three-Loop Five-Point Feynma
 *   **Letters.m**      The definition of three-loop planar pentagon alphabet.
 *   **Propagators.m**                      The definition of inversed propagators for each family. Seven of them at last were taking as irreducible scalar product.
 *   **Kinematics.m**                       The definition of five cyclic Mandelstam variables s_{i,i+1}.
+*   **ForbiddenPairs.txt**                 The forbidden pairs in the second entries condition, each integer labels the number of letter in "Letters.m".
 
 <!--
 ## Contact
